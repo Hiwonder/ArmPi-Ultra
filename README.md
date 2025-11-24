@@ -17,7 +17,7 @@ ArmPi Ultra adopts an exquisite modular design that supports multimodal expansio
 ## Official Resources
 
 ### Official Hiwonder
-- **Official Website**: [https://www.hiwonder.net/](https://www.hiwonder.net/)
+- **Official Website**: [https://www.hiwonder.com/](https://www.hiwonder.com/)
 - **Product Page**: [https://www.hiwonder.com/products/armpi-ultra](https://www.hiwonder.com/products/armpi-ultra)
 - **Official Documentation**: [https://docs.hiwonder.com/projects/ArmPi-Ultra/en/latest/](https://docs.hiwonder.com/projects/ArmPi-Ultra/en/latest/)
 - **Technical Support**: support@hiwonder.com
