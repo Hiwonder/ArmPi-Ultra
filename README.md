@@ -3,7 +3,7 @@
 English | [中文](https://github.com/Hiwonder/ArmPi-Ultra/blob/main/README_cn.md)
 
 <p align="center">
-  <img src="./sources/images/image.webp" alt="ArmPi Ultra Logo" width="400"/>
+  <img src="./sources/images/armpi-ultra.png" alt="ArmPi Ultra Logo" width="600"/>
 </p>
 
 ## Product Overview

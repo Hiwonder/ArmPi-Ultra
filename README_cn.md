@@ -3,7 +3,7 @@
 [English](https://github.com/Hiwonder/ArmPi-Ultra/blob/main/README.md) | 中文
 
 <p align="center">
-  <img src="./sources/images/image.webp" alt="ArmPi Ultra Logo" width="400"/>
+  <img src="./sources/images/armpi-ultra.png" alt="ArmPi Ultra Logo" width="600"/>
 </p>
 
 基于ROS2的桌面级AI三维视觉机械臂，集成3D深度相机、高扭矩智能总线舵机、多模态AI大模型，支持三维空间精准抓取、物品分拣、双臂协作等高阶AI应用。
